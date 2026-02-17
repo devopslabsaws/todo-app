@@ -48,10 +48,10 @@ RUN npm run build
 ###################################################
 
 ###################################################
-# Stage: backend-base
+# Stage: backend-dev
 #
-# This stage is used as the base for the backend-dev and test stages, since
-# there are common steps needed for each.
+# This stage hosts the npm server that provides the app's API.
+# This stage is also used as the base for the test stage.
 ###################################################
 FROM base AS backend-dev
 COPY backend/package.json backend/package-lock.json ./
