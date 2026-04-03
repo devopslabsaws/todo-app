@@ -1,10 +1,12 @@
-Getting Started Todo App
+<img width="1646" height="1398" alt="image" src="https://github.com/user-attachments/assets/0f4c5fa1-e1db-4253-975a-aa27cb3456a3" />Getting Started Todo App
 
 This project is a sample Todo List application designed to showcase modern Docker best practices. It covers everything from writing an efficient Dockerfile, using Docker Compose, setting up CI with GitHub Actions, and running tests.
 
 The goal is to provide a well-documented, easy-to-follow project so anyone can quickly understand and start working with Docker-based applications.
 
 Application Architecture
+<img width="958" height="772" alt="image" src="https://github.com/user-attachments/assets/0f3a2397-c88d-44e5-acc9-edaa4e69a9e1" />
+
 
 This application consists of:
 
